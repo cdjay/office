@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "C:\\Users\\76025\\Anaconda3",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+}
